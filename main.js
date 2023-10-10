@@ -2,7 +2,7 @@
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
-// Your JavaScript code goes here!
+// Your JavaScript code goes here
 document.addEventListener("DOMContentLoaded", () => {
   // Get element 
   const errorModal = document.getElementById("modal");
